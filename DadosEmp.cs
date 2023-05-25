@@ -7,15 +7,15 @@ namespace ExercicioB
 
       string name;
 
-      Console.WriteLine ( "Escreva seu nome : ");
+      Console.WriteLine("Escreva seu nome : ");
       name = Console.ReadLine();
       return name;
     }
 
-    public static int Salario ()
+    public static int Salario()
     {
       int sal = 0;
-      Console.WriteLine ("Qual seu salario");
+      Console.WriteLine("Qual seu salario");
       sal = Convert.ToInt32(Console.ReadLine());
 
       return sal;

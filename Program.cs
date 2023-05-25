@@ -16,7 +16,7 @@ namespace ExercicioB
       nameB = DadosEmp.Nomee();
       salB = DadosEmp.Salario();
 
-      resultado = (salA + salB) /2;
+      resultado = (salA + salB) / 2;
 
 
 
