@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/bin/Debug/net7.0/ExercicioCSharpExe02u
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/bin/Debug/net7.0/ExercicioCSharpExe02u.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/bin/Debug/net7.0/ExercicioCSharpExe02u.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/bin/Debug/net7.0/ExercicioCSharpExe02u.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/bin/Debug/net7.0/ExercicioCSharpExe02u.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/refint/ExercicioCSharpExe02u.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ExercicioCSharpExe02u.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioCSharpExe02u/obj/Debug/net7.0/ref/ExercicioCSharpExe02u.dll
